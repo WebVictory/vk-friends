@@ -3,5 +3,5 @@
 
 ![Image of Yaktocat](https://github.com/WebVictory/vk-friends/blob/master/preview.png)
 
-Протесттировать работу можно по ссылке: http://viteka.pythonanywhere.com/
+Протестировать работу можно по ссылке: http://viteka.pythonanywhere.com/
 
